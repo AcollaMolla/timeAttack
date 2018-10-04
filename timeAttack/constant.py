@@ -1,1 +1,3 @@
-NO_OF_TESTS = 100
+NO_OF_TESTS = 20
+TIMEOUT = 1
+USERNAME = 'antoengm100'
